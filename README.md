@@ -49,3 +49,44 @@ Harshitha Dantu
 Data Engineer
 
 This project was built as a hands-on implementation to strengthen my understanding of data engineering concepts like CDC, pipeline orchestration, and warehouse design.
+
+        +-------------------+
+        |   Data Sources    |
+        | CSV | API | DB    |
+        +---------+---------+
+                  |
+                  v
+        +-------------------+
+        |   Ingestion Layer |
+        +-------------------+
+                  |
+                  v
+        +-------------------+
+        | Standardization   |
+        +-------------------+
+                  |
+                  v
+        +-------------------+
+        |   Validation      |
+        +-------------------+
+                  |
+                  v
+        +-------------------+
+        | Transformation    |
+        +-------------------+
+                  |
+                  v
+        +-------------------+
+        |      CDC          |
+        +-------------------+
+                  |
+                  v
+        +-------------------+
+        |   Warehouse       |
+        | (SQLite DB)       |
+        +-------------------+
+                  |
+                  v
+        +-------------------+
+        | Quality Checks    |
+        +-------------------+
