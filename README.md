@@ -1,4 +1,4 @@
-nsurance Data Platform
+Insurance Data Platform
 Overview
 
 I built this project to simulate a real-world insurance data pipeline. It processes data from multiple sources, applies transformations and validations, and loads it into a warehouse using CDC and upsert logic.
