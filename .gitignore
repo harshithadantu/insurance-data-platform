@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+data/snapshots/
+data/warehouse/
+data/bad_records/
+data/processed/
+data/curated/

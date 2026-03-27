@@ -1,0 +1,1025 @@
+2026-03-15 19:27:14,893 - INFO - file exists. Starting validation process.
+2026-03-15 19:27:14,921 - INFO - Claims data loaded successfully
+2026-03-15 19:27:14,937 - INFO - claims data structure: None
+2026-03-15 19:27:14,937 - INFO - Rows:10000
+2026-03-15 19:27:14,937 - INFO - Columns:4
+2026-03-15 19:27:14,937 - INFO - Column names:['Policy_Id', 'customer_id', 'claim_amount', 'status']
+2026-03-15 19:27:14,948 - INFO - Average claim amount:2563.665322038427
+2026-03-15 19:27:14,948 - INFO - Invalid rows:0
+2026-03-15 19:27:14,948 - INFO - Valid rows :10000
+2026-03-15 19:27:14,948 - INFO - Invalid rows:0
+2026-03-15 19:27:15,029 - INFO - Cleaned claims data stored successfully.
+2026-03-15 19:27:15,029 - INFO - Invalid claims data stored successfully.
+2026-03-15 19:27:15,029 - INFO - Claims data validation completed.
+2026-03-15 20:15:23,343 - INFO - Cleaned claims data loaded successfully.
+2026-03-15 20:16:13,071 - INFO - Cleaned claims data loaded successfully.
+2026-03-15 20:16:13,077 - INFO - Claim by status transformation completed.
+2026-03-15 20:17:15,186 - INFO - Cleaned claims data loaded successfully.
+2026-03-15 20:17:15,186 - INFO - Claim by status transformation completed.
+2026-03-15 20:17:15,186 - INFO - Customer claims transformation completed.
+2026-03-15 20:17:15,186 - INFO - Average claim amount transformation completed.
+2026-03-15 20:17:15,186 - INFO - High risk customers identified.
+2026-03-15 20:17:15,216 - INFO - Transformations completed successfully.
+2026-03-16 10:13:12,727 - INFO - CSV data ingested successfully.
+2026-03-16 10:13:37,559 - INFO - CSV data ingested successfully.
+2026-03-16 10:13:37,575 - INFO - CSV converted to raw JSON successfully.
+2026-03-16 10:16:50,031 - INFO - API data ingested
+2026-03-16 15:11:30,930 - INFO - Data ingested successfully
+2026-03-16 17:48:27,300 - INFO - Starting data ingestion...
+2026-03-16 17:48:27,352 - INFO - CSV data ingested successfully.
+2026-03-16 17:48:27,364 - INFO - CSV converted to raw JSON successfully.
+2026-03-16 17:48:28,183 - INFO - API data ingested
+2026-03-16 17:48:28,214 - INFO - Data ingested successfully
+2026-03-16 17:48:28,214 - INFO - Data ingestion completed.
+2026-03-16 17:48:28,214 - INFO - Starting data validation...
+2026-03-16 17:48:28,214 - INFO - file exists. Starting validation process.
+2026-03-16 17:48:28,261 - INFO - Claims data loaded successfully
+2026-03-16 17:48:28,316 - INFO - claims data structure: None
+2026-03-16 17:48:28,316 - INFO - Rows:10000
+2026-03-16 17:48:28,316 - INFO - Columns:4
+2026-03-16 17:48:28,317 - INFO - Column names:['Policy_Id', 'customer_id', 'claim_amount', 'status']
+2026-03-16 17:48:28,348 - INFO - Average claim amount:2563.665322038427
+2026-03-16 17:48:28,351 - INFO - Invalid rows:0
+2026-03-16 17:48:28,352 - INFO - Valid rows :10000
+2026-03-16 17:48:28,352 - INFO - Invalid rows:0
+2026-03-16 17:48:28,477 - INFO - Cleaned claims data stored successfully.
+2026-03-16 17:48:28,492 - INFO - Invalid claims data stored successfully.
+2026-03-16 17:48:28,492 - INFO - Claims data validation completed.
+2026-03-16 17:48:28,493 - INFO - Data validation completed.
+2026-03-16 17:48:28,493 - INFO - Starting data transformation...
+2026-03-16 17:48:28,643 - INFO - Cleaned claims data loaded successfully.
+2026-03-16 17:48:28,647 - INFO - Claim by status transformation completed.
+2026-03-16 17:48:28,652 - INFO - Customer claims transformation completed.
+2026-03-16 17:48:28,652 - INFO - Average claim amount transformation completed.
+2026-03-16 17:48:28,653 - INFO - High risk customers identified.
+2026-03-16 17:48:28,668 - INFO - Transformations completed successfully.
+2026-03-16 17:48:28,668 - INFO - Data transformation completed.
+2026-03-16 17:48:28,668 - INFO - Data pipeline execution completed successfully.
+2026-03-16 18:33:31,181 - INFO - file exists. Starting validation process.
+2026-03-16 18:33:31,240 - INFO - Policies data loaded successfully
+2026-03-16 18:33:31,284 - INFO - Policies data structure: None
+2026-03-16 18:33:31,284 - INFO - Rows:1000
+2026-03-16 18:33:31,284 - INFO - columns:6
+2026-03-16 18:33:31,285 - INFO - Column names:['policy_id', 'customer_id', 'policy_type', 'premium_amount', 'policy_start_date', 'status']
+2026-03-16 18:34:21,432 - INFO - file exists. Starting validation process.
+2026-03-16 18:34:21,448 - INFO - Policies data loaded successfully
+2026-03-16 18:34:21,463 - INFO - Policies data structure: None
+2026-03-16 18:34:21,463 - INFO - Rows:1000
+2026-03-16 18:34:21,463 - INFO - columns:6
+2026-03-16 18:34:21,463 - INFO - Column names:['policy_id', 'customer_id', 'policy_type', 'premium_amount', 'policy_start_date', 'status']
+2026-03-16 18:37:09,374 - INFO - file exists. Starting validation process.
+2026-03-16 18:37:09,408 - INFO - Policies data loaded successfully
+2026-03-16 18:37:09,439 - INFO - Policies data structure: None
+2026-03-16 18:37:09,439 - INFO - Rows:1000
+2026-03-16 18:37:09,439 - INFO - columns:6
+2026-03-16 18:37:09,439 - INFO - Column names:['policy_id', 'customer_id', 'policy_type', 'premium_amount', 'policy_start_date', 'status']
+2026-03-16 18:37:51,348 - INFO - file exists. Starting validation process.
+2026-03-16 18:37:51,394 - INFO - Policies data loaded successfully
+2026-03-16 18:37:51,445 - INFO - Policies data structure: None
+2026-03-16 18:37:51,445 - INFO - Rows:1000
+2026-03-16 18:37:51,445 - INFO - columns:6
+2026-03-16 18:37:51,445 - INFO - Column names:['policy_id', 'customer_id', 'policy_type', 'premium_amount', 'policy_start_date', 'status']
+2026-03-16 18:37:51,476 - INFO - Number of invalid records found: 1000
+2026-03-16 18:37:51,476 - INFO - Number of valid records found: 0
+2026-03-16 18:37:51,584 - INFO - Cleaned policies data stored successfully.
+2026-03-16 18:37:51,591 - INFO - Invalid policies data stored successfully.
+2026-03-16 18:37:51,591 - INFO - Policies data validation completed.
+2026-03-16 22:43:37,041 - INFO - File not exists at path :data
+aw\db_claims.json
+2026-03-16 22:43:37,041 - INFO - File exists.Start validation
+2026-03-16 22:43:58,000 - INFO - File exists.Start validation
+2026-03-16 22:43:58,066 - INFO - db_claims loaded successfully
+2026-03-16 22:43:58,132 - INFO - db_claims structure :None
+2026-03-16 22:43:58,132 - INFO - db_claims rows:1000
+2026-03-16 22:43:58,132 - INFO - db_claims column:4
+2026-03-16 22:43:58,133 - INFO - db_claims columns:['Policy_Id', 'customer_id', 'Claim_amount', 'status']
+2026-03-16 22:43:58,170 - INFO - Number of invalid rows in db_claims data :0
+2026-03-16 22:43:58,170 - INFO - Number of valid rows in db_claims data :1000
+2026-03-16 22:46:02,304 - INFO - File exists.Start validation
+2026-03-16 22:46:02,367 - INFO - db_claims loaded successfully
+2026-03-16 22:46:02,429 - INFO - db_claims structure :None
+2026-03-16 22:46:02,429 - INFO - db_claims rows:1000
+2026-03-16 22:46:02,429 - INFO - db_claims column:4
+2026-03-16 22:46:02,429 - INFO - db_claims columns:['Policy_Id', 'customer_id', 'Claim_amount', 'status']
+2026-03-16 22:46:02,445 - INFO - Number of invalid rows in db_claims data :0
+2026-03-16 22:46:02,445 - INFO - Number of valid rows in db_claims data :1000
+2026-03-16 22:46:02,460 - INFO - Valid db_claims data stored successfully
+2026-03-16 22:46:02,460 - INFO - Invalid db_claims data stored successfully
+2026-03-16 23:02:39,222 - INFO - API data ingested
+2026-03-16 23:05:11,816 - INFO - API data validation completed
+2026-03-16 23:15:47,334 - INFO - File exists. Start validation
+2026-03-16 23:15:47,395 - INFO - API data loaded successfully
+2026-03-16 23:15:47,396 - INFO - API data rows: 10
+2026-03-16 23:15:47,396 - INFO - API data columns: 8
+2026-03-16 23:15:47,396 - INFO - API columns: ['id', 'name', 'username', 'email', 'address', 'phone', 'website', 'company']
+2026-03-16 23:15:47,464 - WARNING - Number of invalid rows: 0
+2026-03-16 23:15:47,464 - INFO - Number of valid rows: 10
+2026-03-16 23:15:47,607 - INFO - Valid API users stored successfully
+2026-03-16 23:15:47,607 - INFO - API validation completed
+2026-03-16 23:45:21,920 - INFO - Policy and claims data loaded successfully
+2026-03-17 18:49:10,717 - INFO - policies data loaded successfully
+2026-03-17 18:50:14,831 - INFO - policies data loaded successfully
+2026-03-17 18:51:10,349 - INFO - policies data loaded successfully
+2026-03-17 18:51:10,429 - INFO - standardized data stored successfully
+2026-03-17 18:53:07,173 - INFO - claims data loaded successfully
+2026-03-17 18:53:24,048 - INFO - claims data loaded successfully
+2026-03-17 18:53:24,185 - INFO - standardized data stored successfully
+2026-03-17 18:59:12,453 - INFO - claims data loaded successfully
+2026-03-17 18:59:12,665 - INFO - standardized data stored successfully
+2026-03-17 19:01:05,231 - INFO - file exists. Starting validation process.
+2026-03-17 19:01:05,570 - INFO - Policies data loaded successfully
+2026-03-17 19:01:05,641 - INFO - Policies data structure: None
+2026-03-17 19:01:05,642 - INFO - Rows:1000
+2026-03-17 19:01:05,642 - INFO - columns:6
+2026-03-17 19:01:05,642 - INFO - Column names:['policy_id', 'customer_id', 'policy_type', 'premium_amount', 'policy_start_date', 'status']
+2026-03-17 19:01:05,682 - INFO - Number of invalid records found: 1000
+2026-03-17 19:01:05,687 - INFO - Number of valid records found: 0
+2026-03-17 19:01:05,710 - INFO - Cleaned policies data stored successfully.
+2026-03-17 19:01:05,731 - INFO - Invalid policies data stored successfully.
+2026-03-17 19:01:05,732 - INFO - Policies data validation completed.
+2026-03-17 19:02:02,492 - INFO - File exists.Start validation
+2026-03-17 19:02:02,628 - INFO - db_claims loaded successfully
+2026-03-17 19:02:02,657 - INFO - db_claims structure :None
+2026-03-17 19:02:02,658 - INFO - db_claims rows:1000
+2026-03-17 19:02:02,658 - INFO - db_claims column:4
+2026-03-17 19:02:02,659 - INFO - db_claims columns:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-17 19:04:10,397 - INFO - File exists.Start validation
+2026-03-17 19:04:10,531 - INFO - db_claims loaded successfully
+2026-03-17 19:04:10,555 - INFO - db_claims structure :None
+2026-03-17 19:04:10,555 - INFO - db_claims rows:1000
+2026-03-17 19:04:10,556 - INFO - db_claims column:4
+2026-03-17 19:04:10,556 - INFO - db_claims columns:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-17 19:05:45,676 - INFO - File exists.Start validation
+2026-03-17 19:05:45,758 - INFO - db_claims loaded successfully
+2026-03-17 19:05:45,772 - INFO - db_claims structure :None
+2026-03-17 19:05:45,772 - INFO - db_claims rows:1000
+2026-03-17 19:05:45,772 - INFO - db_claims column:4
+2026-03-17 19:05:45,773 - INFO - db_claims columns:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-17 19:06:35,652 - INFO - File exists.Start validation
+2026-03-17 19:06:35,818 - INFO - db_claims loaded successfully
+2026-03-17 19:06:35,845 - INFO - db_claims structure :None
+2026-03-17 19:06:35,846 - INFO - db_claims rows:1000
+2026-03-17 19:06:35,846 - INFO - db_claims column:4
+2026-03-17 19:06:35,846 - INFO - db_claims columns:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-17 19:06:35,897 - INFO - Number of invalid rows in db_claims data :0
+2026-03-17 19:06:35,902 - INFO - Number of valid rows in db_claims data :1000
+2026-03-17 19:06:35,928 - INFO - Valid db_claims data stored successfully
+2026-03-17 19:06:35,937 - INFO - Invalid db_claims data stored successfully
+2026-03-17 19:07:03,194 - INFO - file exists. Starting validation process.
+2026-03-17 19:07:03,283 - INFO - Claims data loaded successfully
+2026-03-17 19:07:03,298 - INFO - claims data structure: None
+2026-03-17 19:07:03,298 - INFO - Rows:10000
+2026-03-17 19:07:03,298 - INFO - Columns:4
+2026-03-17 19:07:03,298 - INFO - Column names:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-17 19:07:03,329 - INFO - Average claim amount:2563.665322038427
+2026-03-17 19:07:03,331 - INFO - Invalid rows:0
+2026-03-17 19:07:03,334 - INFO - Valid rows :10000
+2026-03-17 19:07:03,334 - INFO - Invalid rows:0
+2026-03-17 19:07:03,380 - INFO - Cleaned claims data stored successfully.
+2026-03-17 19:07:03,387 - INFO - Invalid claims data stored successfully.
+2026-03-17 19:07:03,387 - INFO - Claims data validation completed.
+2026-03-17 19:10:58,898 - INFO - Policy and claims data loaded successfully
+2026-03-17 19:12:23,586 - INFO - Policy and claims data loaded successfully
+2026-03-17 19:17:41,565 - INFO - Policy and claims data loaded successfully
+2026-03-17 19:18:42,474 - INFO - Policy and claims data loaded successfully
+2026-03-17 19:18:42,510 - INFO - policy count:1000,claims count:10000, merged count:1000
+2026-03-17 19:18:42,510 - INFO - Policy and claims data joined successfully
+2026-03-17 19:18:42,552 - INFO - Merged data saved successfully
+2026-03-17 19:19:28,473 - INFO - Policy and claims data loaded successfully
+2026-03-17 19:19:28,521 - INFO - policy count:1000,claims count:10000, merged count:1000
+2026-03-17 19:19:28,521 - INFO - Policy and claims data joined successfully
+2026-03-17 19:19:28,534 - INFO - Merged data saved successfully
+2026-03-17 19:22:02,311 - INFO - Policy and claims data loaded successfully
+2026-03-17 19:22:02,359 - INFO - policy count:1000,claims count:10000, merged count:1000
+2026-03-17 19:22:02,359 - INFO - Policy and claims data joined successfully
+2026-03-17 19:22:02,372 - INFO - Merged data saved successfully
+2026-03-17 19:29:16,185 - INFO - Policy and claims data loaded successfully
+2026-03-17 19:29:57,472 - INFO - Policy and claims data loaded successfully
+2026-03-17 19:29:57,505 - INFO - policy count:1000,claims count:10000, merged count:1000
+2026-03-17 19:29:57,505 - INFO - Policy and claims data joined successfully
+2026-03-17 19:29:57,547 - INFO - Merged data saved successfully
+2026-03-17 19:43:24,460 - INFO - Starting data ingestion...
+2026-03-17 19:43:24,523 - INFO - CSV data ingested successfully.
+2026-03-17 19:43:24,536 - INFO - CSV converted to raw JSON successfully.
+2026-03-17 19:43:25,311 - INFO - API data ingested
+2026-03-17 19:43:25,357 - INFO - Data ingested successfully
+2026-03-17 19:43:25,357 - INFO - Data ingestion completed.
+2026-03-17 19:43:25,357 - INFO - Starting data standardization...
+2026-03-17 19:43:25,398 - INFO - policies data loaded successfully
+2026-03-17 19:43:25,555 - INFO - standardized data stored successfully
+2026-03-17 19:43:25,598 - INFO - claims data loaded successfully
+2026-03-17 19:43:25,611 - INFO - standardized data stored successfully
+2026-03-17 19:43:25,618 - INFO - claims data loaded successfully
+2026-03-17 19:43:25,624 - INFO - standardized data stored successfully
+2026-03-17 19:43:25,624 - INFO - Data standardization completed.
+2026-03-17 19:43:25,624 - INFO - Starting data validation...
+2026-03-17 19:43:25,625 - INFO - file exists. Starting validation process.
+2026-03-17 19:43:25,797 - INFO - Claims data loaded successfully
+2026-03-17 19:43:25,841 - INFO - claims data structure: None
+2026-03-17 19:43:25,841 - INFO - Rows:10000
+2026-03-17 19:43:25,842 - INFO - Columns:4
+2026-03-17 19:43:25,843 - INFO - Column names:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-17 19:43:25,882 - INFO - Average claim amount:2563.665322038427
+2026-03-17 19:43:25,886 - INFO - Invalid rows:0
+2026-03-17 19:43:25,889 - INFO - Valid rows :10000
+2026-03-17 19:43:25,889 - INFO - Invalid rows:0
+2026-03-17 19:43:25,924 - INFO - Cleaned claims data stored successfully.
+2026-03-17 19:43:25,936 - INFO - Invalid claims data stored successfully.
+2026-03-17 19:43:25,936 - INFO - Claims data validation completed.
+2026-03-17 19:43:25,937 - INFO - file exists. Starting validation process.
+2026-03-17 19:43:25,946 - INFO - Policies data loaded successfully
+2026-03-17 19:43:25,971 - INFO - Policies data structure: None
+2026-03-17 19:43:25,972 - INFO - Rows:1000
+2026-03-17 19:43:25,972 - INFO - columns:6
+2026-03-17 19:43:25,972 - INFO - Column names:['policy_id', 'customer_id', 'policy_type', 'premium_amount', 'policy_start_date', 'status']
+2026-03-17 19:43:26,035 - INFO - Number of invalid records found: 1000
+2026-03-17 19:43:26,036 - INFO - Number of valid records found: 0
+2026-03-17 19:43:26,053 - INFO - Cleaned policies data stored successfully.
+2026-03-17 19:43:26,070 - INFO - Invalid policies data stored successfully.
+2026-03-17 19:43:26,070 - INFO - Policies data validation completed.
+2026-03-17 19:43:26,071 - INFO - File exists.Start validation
+2026-03-17 19:43:26,078 - INFO - db_claims loaded successfully
+2026-03-17 19:43:26,094 - INFO - db_claims structure :None
+2026-03-17 19:43:26,094 - INFO - db_claims rows:1000
+2026-03-17 19:43:26,094 - INFO - db_claims column:4
+2026-03-17 19:43:26,094 - INFO - db_claims columns:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-17 19:43:26,120 - INFO - Number of invalid rows in db_claims data :0
+2026-03-17 19:43:26,121 - INFO - Number of valid rows in db_claims data :1000
+2026-03-17 19:43:26,129 - INFO - Valid db_claims data stored successfully
+2026-03-17 19:43:26,132 - INFO - Invalid db_claims data stored successfully
+2026-03-17 19:43:26,132 - INFO - Data validation completed.
+2026-03-17 19:43:26,132 - INFO - Starting data transformation...
+2026-03-17 19:43:26,146 - INFO - Policy and claims data loaded successfully
+2026-03-17 19:43:26,195 - INFO - policy count:1000,claims count:10000, merged count:1000
+2026-03-17 19:43:26,195 - INFO - Policy and claims data joined successfully
+2026-03-17 19:43:26,209 - INFO - Merged data saved successfully
+2026-03-17 19:43:26,209 - INFO - Data transformation completed.
+2026-03-17 19:43:26,209 - INFO - Data pipeline execution completed successfully.
+2026-03-17 20:04:46,308 - INFO - curated policy_claims_summary loaded successfully
+2026-03-17 20:04:46,419 - INFO - curated data loaded successfully inoto warehouse
+2026-03-17 20:14:19,506 - INFO - Starting data ingestion...
+2026-03-17 20:14:19,553 - INFO - CSV data ingested successfully.
+2026-03-17 20:14:19,562 - INFO - CSV converted to raw JSON successfully.
+2026-03-17 20:14:20,548 - INFO - API data ingested
+2026-03-17 20:14:20,590 - INFO - Data ingested successfully
+2026-03-17 20:14:20,590 - INFO - Data ingestion completed.
+2026-03-17 20:14:20,590 - INFO - Starting data standardization...
+2026-03-17 20:14:20,609 - INFO - policies data loaded successfully
+2026-03-17 20:14:20,756 - INFO - standardized data stored successfully
+2026-03-17 20:14:20,789 - INFO - claims data loaded successfully
+2026-03-17 20:14:20,798 - INFO - standardized data stored successfully
+2026-03-17 20:14:20,803 - INFO - claims data loaded successfully
+2026-03-17 20:14:20,808 - INFO - standardized data stored successfully
+2026-03-17 20:14:20,808 - INFO - Data standardization completed.
+2026-03-17 20:14:20,808 - INFO - Starting data validation...
+2026-03-17 20:14:20,809 - INFO - file exists. Starting validation process.
+2026-03-17 20:14:20,961 - INFO - Claims data loaded successfully
+2026-03-17 20:14:20,997 - INFO - claims data structure: None
+2026-03-17 20:14:20,998 - INFO - Rows:10000
+2026-03-17 20:14:20,998 - INFO - Columns:4
+2026-03-17 20:14:20,998 - INFO - Column names:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-17 20:14:21,019 - INFO - Average claim amount:2563.665322038427
+2026-03-17 20:14:21,022 - INFO - Invalid rows:0
+2026-03-17 20:14:21,024 - INFO - Valid rows :10000
+2026-03-17 20:14:21,024 - INFO - Invalid rows:0
+2026-03-17 20:14:21,034 - INFO - Cleaned claims data stored successfully.
+2026-03-17 20:14:21,037 - INFO - Invalid claims data stored successfully.
+2026-03-17 20:14:21,037 - INFO - Claims data validation completed.
+2026-03-17 20:14:21,037 - INFO - file exists. Starting validation process.
+2026-03-17 20:14:21,042 - INFO - Policies data loaded successfully
+2026-03-17 20:14:21,051 - INFO - Policies data structure: None
+2026-03-17 20:14:21,051 - INFO - Rows:1000
+2026-03-17 20:14:21,051 - INFO - columns:6
+2026-03-17 20:14:21,051 - INFO - Column names:['policy_id', 'customer_id', 'policy_type', 'premium_amount', 'policy_start_date', 'status']
+2026-03-17 20:14:21,060 - INFO - Number of invalid records found: 1000
+2026-03-17 20:14:21,061 - INFO - Number of valid records found: 0
+2026-03-17 20:14:21,070 - INFO - Cleaned policies data stored successfully.
+2026-03-17 20:14:21,077 - INFO - Invalid policies data stored successfully.
+2026-03-17 20:14:21,077 - INFO - Policies data validation completed.
+2026-03-17 20:14:21,077 - INFO - File exists.Start validation
+2026-03-17 20:14:21,082 - INFO - db_claims loaded successfully
+2026-03-17 20:14:21,089 - INFO - db_claims structure :None
+2026-03-17 20:14:21,089 - INFO - db_claims rows:1000
+2026-03-17 20:14:21,089 - INFO - db_claims column:4
+2026-03-17 20:14:21,089 - INFO - db_claims columns:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-17 20:14:21,103 - INFO - Number of invalid rows in db_claims data :0
+2026-03-17 20:14:21,103 - INFO - Number of valid rows in db_claims data :1000
+2026-03-17 20:14:21,106 - INFO - Valid db_claims data stored successfully
+2026-03-17 20:14:21,107 - INFO - Invalid db_claims data stored successfully
+2026-03-17 20:14:21,107 - INFO - Data validation completed.
+2026-03-17 20:14:21,107 - INFO - Starting data transformation...
+2026-03-17 20:14:21,116 - INFO - Policy and claims data loaded successfully
+2026-03-17 20:14:21,151 - INFO - policy count:1000,claims count:10000, merged count:1000
+2026-03-17 20:14:21,151 - INFO - Policy and claims data joined successfully
+2026-03-17 20:14:21,158 - INFO - Merged data saved successfully
+2026-03-17 20:14:21,158 - INFO - Data transformation completed.
+2026-03-17 20:14:21,158 - INFO - Data pipeline execution completed successfully.
+2026-03-17 20:14:21,158 - INFO - Starting data loading to warehouse...
+2026-03-17 20:14:21,162 - INFO - curated policy_claims_summary loaded successfully
+2026-03-17 20:14:21,237 - INFO - curated data loaded successfully into warehouse
+2026-03-17 20:14:21,238 - INFO - Data loading to warehouse completed.
+2026-03-19 06:41:39,847 - INFO - Incremental loading started
+2026-03-19 06:41:40,161 - INFO - curated policy_claims_summary loaded successfully
+2026-03-19 06:41:40,253 - INFO - Existing table loaded. Rows:1000
+2026-03-19 06:41:40,287 - INFO - New records identified:0
+2026-03-19 06:41:40,287 - INFO - No new records to insert
+2026-03-19 06:41:40,287 - INFO - curated data loaded successfully into warehouse
+2026-03-19 06:42:03,907 - INFO - Incremental loading started
+2026-03-19 06:42:04,213 - INFO - curated policy_claims_summary loaded successfully
+2026-03-19 06:42:04,299 - INFO - Existing table loaded. Rows:1000
+2026-03-19 06:42:04,335 - INFO - New records identified:0
+2026-03-19 06:42:04,335 - INFO - No new records to insert
+2026-03-19 06:42:04,336 - INFO - curated data loaded successfully into warehouse
+2026-03-27 16:16:32,900 - INFO - Starting data ingestion...
+2026-03-27 16:16:32,965 - INFO - CSV data ingested successfully.
+2026-03-27 16:16:32,980 - INFO - CSV converted to raw JSON successfully.
+2026-03-27 16:16:33,759 - INFO - API data ingested
+2026-03-27 16:16:33,817 - INFO - Data ingested successfully
+2026-03-27 16:16:33,818 - INFO - Data ingestion completed.
+2026-03-27 16:16:33,818 - INFO - Starting data standardization...
+2026-03-27 16:16:33,839 - INFO - policies data loaded successfully
+2026-03-27 16:16:37,104 - INFO - standardized data stored successfully
+2026-03-27 16:16:37,142 - INFO - claims data loaded successfully
+2026-03-27 16:16:37,152 - INFO - standardized data stored successfully
+2026-03-27 16:16:37,159 - INFO - claims data loaded successfully
+2026-03-27 16:16:37,168 - INFO - standardized data stored successfully
+2026-03-27 16:16:37,168 - INFO - Data standardization completed.
+2026-03-27 16:16:37,168 - INFO - Starting data validation...
+2026-03-27 16:16:37,168 - INFO - file exists. Starting validation process.
+2026-03-27 16:16:43,328 - INFO - Claims data loaded successfully
+2026-03-27 16:16:43,380 - INFO - claims data structure: None
+2026-03-27 16:16:43,380 - INFO - Rows:10000
+2026-03-27 16:16:43,381 - INFO - Columns:4
+2026-03-27 16:16:43,381 - INFO - Column names:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-27 16:16:43,432 - INFO - Average claim amount:2563.665322038427
+2026-03-27 16:16:43,437 - INFO - Invalid rows:0
+2026-03-27 16:16:43,437 - INFO - Valid rows :10000
+2026-03-27 16:16:43,437 - INFO - Invalid rows:0
+2026-03-27 16:16:43,566 - INFO - Cleaned claims data stored successfully.
+2026-03-27 16:16:43,575 - INFO - Invalid claims data stored successfully.
+2026-03-27 16:16:43,575 - INFO - Claims data validation completed.
+2026-03-27 16:16:43,575 - INFO - file exists. Starting validation process.
+2026-03-27 16:16:43,590 - INFO - Policies data loaded successfully
+2026-03-27 16:16:43,604 - INFO - Policies data structure: None
+2026-03-27 16:16:43,604 - INFO - Rows:1000
+2026-03-27 16:16:43,606 - INFO - columns:6
+2026-03-27 16:16:43,606 - INFO - Column names:['policy_id', 'customer_id', 'policy_type', 'premium_amount', 'policy_start_date', 'status']
+2026-03-27 16:16:43,638 - INFO - Number of invalid records found: 1000
+2026-03-27 16:16:43,642 - INFO - Number of valid records found: 0
+2026-03-27 16:16:43,650 - INFO - Cleaned policies data stored successfully.
+2026-03-27 16:16:43,664 - INFO - Invalid policies data stored successfully.
+2026-03-27 16:16:43,664 - INFO - Policies data validation completed.
+2026-03-27 16:16:43,664 - INFO - File exists.Start validation
+2026-03-27 16:16:43,669 - INFO - db_claims loaded successfully
+2026-03-27 16:16:43,684 - INFO - db_claims structure :None
+2026-03-27 16:16:43,684 - INFO - db_claims rows:1000
+2026-03-27 16:16:43,685 - INFO - db_claims column:4
+2026-03-27 16:16:43,685 - INFO - db_claims columns:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-27 16:16:43,706 - INFO - Number of invalid rows in db_claims data :0
+2026-03-27 16:16:43,708 - INFO - Number of valid rows in db_claims data :1000
+2026-03-27 16:16:43,715 - INFO - Valid db_claims data stored successfully
+2026-03-27 16:16:43,717 - INFO - Invalid db_claims data stored successfully
+2026-03-27 16:16:43,718 - INFO - Data validation completed.
+2026-03-27 16:16:43,718 - INFO - Starting data transformation...
+2026-03-27 16:16:43,733 - INFO - Policy and claims data loaded successfully
+2026-03-27 16:16:43,805 - INFO - policy count:1000,claims count:10000, merged count:1000
+2026-03-27 16:16:43,806 - INFO - Policy and claims data joined successfully
+2026-03-27 16:16:43,819 - INFO - Merged data saved successfully
+2026-03-27 16:16:43,820 - INFO - Data transformation completed.
+2026-03-27 16:16:43,821 - INFO - Starting data loading to warehouse...
+2026-03-27 16:16:43,821 - INFO - Warehouse CDC upsert process started
+2026-03-27 16:16:43,829 - INFO - Current curated data loaded. Rows: 1000
+2026-03-27 16:16:43,830 - INFO - No previous snapshot found. All rows marked as INSERT.
+2026-03-27 16:16:43,849 - INFO - Warehouse table checked/created successfully
+2026-03-27 16:16:43,869 - ERROR - Warehouse loading failed: Execution failed on sql 'INSERT INTO policy_claims_table (policy_id, customer_id, policy_type, premium_amount, policy_start_date, status, total_claims_amount, claim_count, loss_ratio, cdc_flag, load_timestamp) VALUES (:policy_id, :customer_id, :policy_type, :premium_amount, :policy_start_date, :status, :total_claims_amount, :claim_count, :loss_ratio, :cdc_flag, :load_timestamp)': (sqlite3.OperationalError) table policy_claims_table has no column named policy_start_date
+[SQL: INSERT INTO policy_claims_table (policy_id, customer_id, policy_type, premium_amount, policy_start_date, status, total_claims_amount, claim_count, loss_ratio, cdc_flag, load_timestamp) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (1000, 6223, 'health', 1891.1722544712, '2023-01-01 00:00:00.000000', 'expired', 0.0, 0.0, 0.0, 'INSERT', '2026-03-27 16:16:43')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-27 16:16:43,869 - ERROR - Pipeline execution failed: Execution failed on sql 'INSERT INTO policy_claims_table (policy_id, customer_id, policy_type, premium_amount, policy_start_date, status, total_claims_amount, claim_count, loss_ratio, cdc_flag, load_timestamp) VALUES (:policy_id, :customer_id, :policy_type, :premium_amount, :policy_start_date, :status, :total_claims_amount, :claim_count, :loss_ratio, :cdc_flag, :load_timestamp)': (sqlite3.OperationalError) table policy_claims_table has no column named policy_start_date
+[SQL: INSERT INTO policy_claims_table (policy_id, customer_id, policy_type, premium_amount, policy_start_date, status, total_claims_amount, claim_count, loss_ratio, cdc_flag, load_timestamp) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (1000, 6223, 'health', 1891.1722544712, '2023-01-01 00:00:00.000000', 'expired', 0.0, 0.0, 0.0, 'INSERT', '2026-03-27 16:16:43')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-03-27 16:42:08,533 - INFO - Starting data ingestion...
+2026-03-27 16:42:08,608 - INFO - CSV data ingested successfully.
+2026-03-27 16:42:08,624 - INFO - CSV converted to raw JSON successfully.
+2026-03-27 16:42:09,647 - INFO - API data ingested
+2026-03-27 16:42:09,693 - INFO - Data ingested successfully
+2026-03-27 16:42:09,693 - INFO - Data ingestion completed.
+2026-03-27 16:42:09,693 - INFO - Starting data standardization...
+2026-03-27 16:42:09,725 - INFO - policies data loaded successfully
+2026-03-27 16:42:10,010 - INFO - standardized data stored successfully
+2026-03-27 16:42:10,079 - INFO - claims data loaded successfully
+2026-03-27 16:42:10,098 - INFO - standardized data stored successfully
+2026-03-27 16:42:10,108 - INFO - claims data loaded successfully
+2026-03-27 16:42:10,119 - INFO - standardized data stored successfully
+2026-03-27 16:42:10,119 - INFO - Data standardization completed.
+2026-03-27 16:42:10,119 - INFO - Starting data validation...
+2026-03-27 16:42:10,119 - INFO - file exists. Starting validation process.
+2026-03-27 16:42:10,428 - INFO - Claims data loaded successfully
+2026-03-27 16:42:10,634 - INFO - claims data structure: None
+2026-03-27 16:42:10,634 - INFO - Rows:10000
+2026-03-27 16:42:10,635 - INFO - Columns:4
+2026-03-27 16:42:10,635 - INFO - Column names:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-27 16:42:10,692 - INFO - Average claim amount:2563.665322038427
+2026-03-27 16:42:10,705 - INFO - Invalid rows:0
+2026-03-27 16:42:10,710 - INFO - Valid rows :10000
+2026-03-27 16:42:10,714 - INFO - Invalid rows:0
+2026-03-27 16:42:10,743 - INFO - Cleaned claims data stored successfully.
+2026-03-27 16:42:10,754 - INFO - Invalid claims data stored successfully.
+2026-03-27 16:42:10,754 - INFO - Claims data validation completed.
+2026-03-27 16:42:10,754 - INFO - file exists. Starting validation process.
+2026-03-27 16:42:10,764 - INFO - Policies data loaded successfully
+2026-03-27 16:42:10,785 - INFO - Policies data structure: None
+2026-03-27 16:42:10,786 - INFO - Rows:1000
+2026-03-27 16:42:10,786 - INFO - columns:6
+2026-03-27 16:42:10,786 - INFO - Column names:['policy_id', 'customer_id', 'policy_type', 'premium_amount', 'policy_start_date', 'status']
+2026-03-27 16:42:10,818 - INFO - Number of invalid records found: 1000
+2026-03-27 16:42:10,822 - INFO - Number of valid records found: 0
+2026-03-27 16:42:10,859 - INFO - Cleaned policies data stored successfully.
+2026-03-27 16:42:10,880 - INFO - Invalid policies data stored successfully.
+2026-03-27 16:42:10,881 - INFO - Policies data validation completed.
+2026-03-27 16:42:10,881 - INFO - File exists.Start validation
+2026-03-27 16:42:10,889 - INFO - db_claims loaded successfully
+2026-03-27 16:42:10,913 - INFO - db_claims structure :None
+2026-03-27 16:42:10,913 - INFO - db_claims rows:1000
+2026-03-27 16:42:10,913 - INFO - db_claims column:4
+2026-03-27 16:42:10,913 - INFO - db_claims columns:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-27 16:42:10,954 - INFO - Number of invalid rows in db_claims data :0
+2026-03-27 16:42:10,972 - INFO - Number of valid rows in db_claims data :1000
+2026-03-27 16:42:10,986 - INFO - Valid db_claims data stored successfully
+2026-03-27 16:42:10,989 - INFO - Invalid db_claims data stored successfully
+2026-03-27 16:42:10,989 - INFO - Data validation completed.
+2026-03-27 16:42:10,989 - INFO - Starting data transformation...
+2026-03-27 16:42:11,018 - INFO - Policy and claims data loaded successfully
+2026-03-27 16:42:11,091 - INFO - policy count:1000,claims count:10000, merged count:1000
+2026-03-27 16:42:11,091 - INFO - Policy and claims data joined successfully
+2026-03-27 16:42:11,103 - INFO - Merged data saved successfully
+2026-03-27 16:42:11,103 - INFO - Data transformation completed.
+2026-03-27 16:42:11,103 - INFO - Starting data loading to warehouse...
+2026-03-27 16:42:11,104 - INFO - Warehouse CDC upsert process started
+2026-03-27 16:42:11,110 - INFO - Current curated data loaded. Rows: 1000
+2026-03-27 16:42:11,111 - INFO - No previous snapshot found. All rows marked as INSERT.
+2026-03-27 16:42:11,139 - INFO - Warehouse table checked/created successfully
+2026-03-27 16:42:11,422 - INFO - Warehouse upsert completed successfully. Processed rows: 1000
+2026-03-27 16:42:11,437 - INFO - Latest curated snapshot saved successfully
+2026-03-27 16:42:11,438 - INFO - Pipeline metadata updated successfully
+2026-03-27 16:42:11,439 - INFO - Data loading to warehouse completed.
+2026-03-27 16:42:11,439 - INFO - Starting warehouse quality checks...
+2026-03-27 16:42:11,452 - INFO - Warehouse row count: 1000
+2026-03-27 16:42:11,456 - INFO - Null counts:
+policy_id              0
+customer_id            0
+policy_type            0
+premium_amount         0
+policy_start_date      0
+status                 0
+total_claims_amount    0
+claim_count            0
+loss_ratio             0
+cdc_flag               0
+load_timestamp         0
+dtype: int64
+2026-03-27 16:42:11,458 - INFO - Duplicate key count: 0
+2026-03-27 16:42:11,458 - INFO - No duplicate business keys found
+2026-03-27 16:42:11,458 - INFO - Warehouse quality checks completed.
+2026-03-27 16:42:11,458 - INFO - Data pipeline execution completed successfully.
+2026-03-27 18:06:50,698 - INFO - Starting data ingestion...
+2026-03-27 18:06:50,767 - INFO - CSV data ingested successfully.
+2026-03-27 18:06:50,777 - INFO - CSV converted to raw JSON successfully.
+2026-03-27 18:06:52,181 - INFO - API data ingested
+2026-03-27 18:06:52,237 - INFO - Data ingested successfully
+2026-03-27 18:06:52,237 - INFO - Data ingestion completed.
+2026-03-27 18:06:52,237 - INFO - Starting data standardization...
+2026-03-27 18:06:52,247 - INFO - policies data loaded successfully
+2026-03-27 18:06:52,403 - INFO - standardized data stored successfully
+2026-03-27 18:06:52,459 - INFO - claims data loaded successfully
+2026-03-27 18:06:52,476 - INFO - standardized data stored successfully
+2026-03-27 18:06:52,487 - INFO - claims data loaded successfully
+2026-03-27 18:06:52,493 - INFO - standardized data stored successfully
+2026-03-27 18:06:52,493 - INFO - Data standardization completed.
+2026-03-27 18:06:52,494 - INFO - Starting data validation...
+2026-03-27 18:06:52,494 - INFO - file exists. Starting validation process.
+2026-03-27 18:06:52,636 - INFO - Claims data loaded successfully
+2026-03-27 18:06:52,671 - INFO - claims data structure: None
+2026-03-27 18:06:52,672 - INFO - Rows:10000
+2026-03-27 18:06:52,672 - INFO - Columns:4
+2026-03-27 18:06:52,672 - INFO - Column names:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-27 18:06:52,701 - INFO - Average claim amount:2563.665322038427
+2026-03-27 18:06:52,704 - INFO - Invalid rows:0
+2026-03-27 18:06:52,705 - INFO - Valid rows :10000
+2026-03-27 18:06:52,705 - INFO - Invalid rows:0
+2026-03-27 18:06:52,722 - INFO - Cleaned claims data stored successfully.
+2026-03-27 18:06:52,726 - INFO - Invalid claims data stored successfully.
+2026-03-27 18:06:52,727 - INFO - Claims data validation completed.
+2026-03-27 18:06:52,727 - INFO - file exists. Starting validation process.
+2026-03-27 18:06:52,733 - INFO - Policies data loaded successfully
+2026-03-27 18:06:52,733 - INFO - Policies data structure: None
+2026-03-27 18:06:52,733 - INFO - Rows:1001
+2026-03-27 18:06:52,733 - INFO - columns:6
+2026-03-27 18:06:52,733 - INFO - Column names:['policy_id', 'customer_id', 'policy_type', 'premium_amount', 'policy_start_date', 'status']
+2026-03-27 18:06:52,754 - INFO - Number of invalid records found: 1001
+2026-03-27 18:06:52,756 - INFO - Number of valid records found: 0
+2026-03-27 18:06:52,764 - INFO - Cleaned policies data stored successfully.
+2026-03-27 18:06:52,771 - INFO - Invalid policies data stored successfully.
+2026-03-27 18:06:52,771 - INFO - Policies data validation completed.
+2026-03-27 18:06:52,771 - INFO - File exists.Start validation
+2026-03-27 18:06:52,775 - INFO - db_claims loaded successfully
+2026-03-27 18:06:52,783 - INFO - db_claims structure :None
+2026-03-27 18:06:52,783 - INFO - db_claims rows:1000
+2026-03-27 18:06:52,783 - INFO - db_claims column:4
+2026-03-27 18:06:52,783 - INFO - db_claims columns:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-27 18:06:52,795 - INFO - Number of invalid rows in db_claims data :0
+2026-03-27 18:06:52,796 - INFO - Number of valid rows in db_claims data :1000
+2026-03-27 18:06:52,800 - INFO - Valid db_claims data stored successfully
+2026-03-27 18:06:52,802 - INFO - Invalid db_claims data stored successfully
+2026-03-27 18:06:52,802 - INFO - Data validation completed.
+2026-03-27 18:06:52,802 - INFO - Starting data transformation...
+2026-03-27 18:06:52,817 - INFO - Policy and claims data loaded successfully
+2026-03-27 18:06:52,863 - INFO - policy count:1001,claims count:10000, merged count:1001
+2026-03-27 18:06:52,863 - INFO - Policy and claims data joined successfully
+2026-03-27 18:06:52,864 - INFO - Merged data saved successfully
+2026-03-27 18:06:52,864 - INFO - Data transformation completed.
+2026-03-27 18:06:52,864 - INFO - Starting data loading to warehouse...
+2026-03-27 18:06:52,864 - INFO - Warehouse CDC upsert process started
+2026-03-27 18:06:52,878 - INFO - Current curated data loaded. Rows: 1001
+2026-03-27 18:06:52,885 - INFO - Previous snapshot loaded. Rows: 1000
+2026-03-27 18:06:53,121 - INFO - CDC detection completed. Changed rows: 3
+2026-03-27 18:06:53,131 - INFO - Warehouse table checked/created successfully
+2026-03-27 18:06:53,157 - INFO - Warehouse upsert completed successfully. Processed rows: 3
+2026-03-27 18:06:53,165 - INFO - Latest curated snapshot saved successfully
+2026-03-27 18:06:53,165 - INFO - Pipeline metadata updated successfully
+2026-03-27 18:06:53,165 - INFO - Data loading to warehouse completed.
+2026-03-27 18:06:53,165 - INFO - Starting warehouse quality checks...
+2026-03-27 18:06:53,191 - INFO - Warehouse row count: 1000
+2026-03-27 18:06:53,193 - INFO - Null counts:
+policy_id              0
+customer_id            0
+policy_type            0
+premium_amount         0
+policy_start_date      0
+status                 0
+total_claims_amount    0
+claim_count            0
+loss_ratio             0
+cdc_flag               0
+load_timestamp         0
+dtype: int64
+2026-03-27 18:06:53,195 - INFO - Duplicate key count: 0
+2026-03-27 18:06:53,196 - INFO - No duplicate business keys found
+2026-03-27 18:06:53,197 - INFO - Warehouse quality checks completed.
+2026-03-27 18:06:53,197 - INFO - Data pipeline execution completed successfully.
+2026-03-27 18:22:58,081 - INFO - Starting data ingestion...
+2026-03-27 18:22:58,148 - INFO - CSV data ingested successfully.
+2026-03-27 18:22:58,159 - INFO - CSV converted to raw JSON successfully.
+2026-03-27 18:22:59,073 - INFO - API data ingested
+2026-03-27 18:22:59,102 - INFO - Data ingested successfully
+2026-03-27 18:22:59,102 - INFO - Data ingestion completed.
+2026-03-27 18:22:59,102 - INFO - Starting data standardization...
+2026-03-27 18:22:59,119 - INFO - policies data loaded successfully
+2026-03-27 18:22:59,252 - INFO - standardized data stored successfully
+2026-03-27 18:22:59,299 - INFO - claims data loaded successfully
+2026-03-27 18:22:59,315 - INFO - standardized data stored successfully
+2026-03-27 18:22:59,332 - INFO - claims data loaded successfully
+2026-03-27 18:22:59,332 - INFO - standardized data stored successfully
+2026-03-27 18:22:59,332 - INFO - Data standardization completed.
+2026-03-27 18:22:59,332 - INFO - Starting data validation...
+2026-03-27 18:22:59,332 - INFO - file exists. Starting validation process.
+2026-03-27 18:22:59,465 - INFO - Claims data loaded successfully
+2026-03-27 18:22:59,502 - INFO - claims data structure: None
+2026-03-27 18:22:59,502 - INFO - Rows:10000
+2026-03-27 18:22:59,502 - INFO - Columns:4
+2026-03-27 18:22:59,502 - INFO - Column names:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-27 18:22:59,535 - INFO - Average claim amount:2563.665322038427
+2026-03-27 18:22:59,535 - INFO - Invalid rows:0
+2026-03-27 18:22:59,535 - INFO - Valid rows :10000
+2026-03-27 18:22:59,535 - INFO - Invalid rows:0
+2026-03-27 18:22:59,550 - INFO - Cleaned claims data stored successfully.
+2026-03-27 18:22:59,550 - INFO - Invalid claims data stored successfully.
+2026-03-27 18:22:59,550 - INFO - Claims data validation completed.
+2026-03-27 18:22:59,550 - INFO - file exists. Starting validation process.
+2026-03-27 18:22:59,567 - INFO - Policies data loaded successfully
+2026-03-27 18:22:59,567 - INFO - Policies data structure: None
+2026-03-27 18:22:59,567 - INFO - Rows:1001
+2026-03-27 18:22:59,567 - INFO - columns:6
+2026-03-27 18:22:59,567 - INFO - Column names:['policy_id', 'customer_id', 'policy_type', 'premium_amount', 'policy_start_date', 'status']
+2026-03-27 18:22:59,588 - INFO - Number of invalid records found: 1001
+2026-03-27 18:22:59,590 - INFO - Number of valid records found: 0
+2026-03-27 18:22:59,597 - INFO - Cleaned policies data stored successfully.
+2026-03-27 18:22:59,604 - INFO - Invalid policies data stored successfully.
+2026-03-27 18:22:59,604 - INFO - Policies data validation completed.
+2026-03-27 18:22:59,604 - INFO - File exists.Start validation
+2026-03-27 18:22:59,604 - INFO - db_claims loaded successfully
+2026-03-27 18:22:59,614 - INFO - db_claims structure :None
+2026-03-27 18:22:59,615 - INFO - db_claims rows:1000
+2026-03-27 18:22:59,615 - INFO - db_claims column:4
+2026-03-27 18:22:59,616 - INFO - db_claims columns:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-27 18:22:59,616 - INFO - Number of invalid rows in db_claims data :0
+2026-03-27 18:22:59,616 - INFO - Number of valid rows in db_claims data :1000
+2026-03-27 18:22:59,630 - INFO - Valid db_claims data stored successfully
+2026-03-27 18:22:59,633 - INFO - Invalid db_claims data stored successfully
+2026-03-27 18:22:59,634 - INFO - Data validation completed.
+2026-03-27 18:22:59,634 - INFO - Starting data transformation...
+2026-03-27 18:22:59,648 - INFO - Policy and claims data loaded successfully
+2026-03-27 18:22:59,695 - INFO - policy count:1001,claims count:10000, merged count:1001
+2026-03-27 18:22:59,695 - INFO - Policy and claims data joined successfully
+2026-03-27 18:22:59,706 - INFO - Merged data saved successfully
+2026-03-27 18:22:59,706 - INFO - Data transformation completed.
+2026-03-27 18:22:59,706 - INFO - Starting data loading to warehouse...
+2026-03-27 18:22:59,706 - INFO - Warehouse CDC upsert process started
+2026-03-27 18:22:59,711 - INFO - Current curated data loaded. Rows: 1001
+2026-03-27 18:22:59,715 - INFO - Previous snapshot loaded. Rows: 1001
+2026-03-27 18:22:59,892 - INFO - CDC detection completed. Changed rows: 2
+2026-03-27 18:22:59,897 - INFO - Warehouse table checked/created successfully
+2026-03-27 18:22:59,956 - INFO - Warehouse upsert completed successfully. Processed rows: 2
+2026-03-27 18:22:59,967 - INFO - Latest curated snapshot saved successfully
+2026-03-27 18:22:59,968 - INFO - Pipeline metadata updated successfully
+2026-03-27 18:22:59,968 - INFO - Data loading to warehouse completed.
+2026-03-27 18:22:59,969 - INFO - Starting warehouse quality checks...
+2026-03-27 18:22:59,979 - INFO - Warehouse row count: 1001
+2026-03-27 18:22:59,981 - INFO - Null counts:
+policy_id              0
+customer_id            0
+policy_type            0
+premium_amount         0
+policy_start_date      0
+status                 0
+total_claims_amount    0
+claim_count            0
+loss_ratio             0
+cdc_flag               0
+load_timestamp         0
+dtype: int64
+2026-03-27 18:22:59,982 - INFO - Duplicate key count: 1
+2026-03-27 18:22:59,982 - WARNING - Duplicate business keys found in warehouse
+2026-03-27 18:22:59,982 - INFO - Warehouse quality checks completed.
+2026-03-27 18:22:59,982 - INFO - Data pipeline execution completed successfully.
+2026-03-27 18:28:41,419 - INFO - Starting data ingestion...
+2026-03-27 18:28:41,489 - INFO - CSV data ingested successfully.
+2026-03-27 18:28:41,503 - INFO - CSV converted to raw JSON successfully.
+2026-03-27 18:28:42,305 - INFO - API data ingested
+2026-03-27 18:28:42,352 - INFO - Data ingested successfully
+2026-03-27 18:28:42,352 - INFO - Data ingestion completed.
+2026-03-27 18:28:42,352 - INFO - Starting data standardization...
+2026-03-27 18:28:42,372 - INFO - policies data loaded successfully
+2026-03-27 18:28:42,552 - INFO - standardized data stored successfully
+2026-03-27 18:28:42,568 - INFO - claims data loaded successfully
+2026-03-27 18:28:42,591 - INFO - standardized data stored successfully
+2026-03-27 18:28:42,596 - INFO - claims data loaded successfully
+2026-03-27 18:28:42,601 - INFO - standardized data stored successfully
+2026-03-27 18:28:42,601 - INFO - Data standardization completed.
+2026-03-27 18:28:42,601 - INFO - Starting data validation...
+2026-03-27 18:28:42,601 - INFO - file exists. Starting validation process.
+2026-03-27 18:28:42,801 - INFO - Claims data loaded successfully
+2026-03-27 18:28:42,865 - INFO - claims data structure: None
+2026-03-27 18:28:42,865 - INFO - Rows:10000
+2026-03-27 18:28:42,865 - INFO - Columns:4
+2026-03-27 18:28:42,865 - INFO - Column names:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-27 18:28:42,887 - INFO - Average claim amount:2563.665322038427
+2026-03-27 18:28:42,890 - INFO - Invalid rows:0
+2026-03-27 18:28:42,891 - INFO - Valid rows :10000
+2026-03-27 18:28:42,891 - INFO - Invalid rows:0
+2026-03-27 18:28:42,898 - INFO - Cleaned claims data stored successfully.
+2026-03-27 18:28:42,902 - INFO - Invalid claims data stored successfully.
+2026-03-27 18:28:42,902 - INFO - Claims data validation completed.
+2026-03-27 18:28:42,902 - INFO - file exists. Starting validation process.
+2026-03-27 18:28:42,902 - INFO - Policies data loaded successfully
+2026-03-27 18:28:42,902 - INFO - Policies data structure: None
+2026-03-27 18:28:42,902 - INFO - Rows:1001
+2026-03-27 18:28:42,902 - INFO - columns:6
+2026-03-27 18:28:42,902 - INFO - Column names:['policy_id', 'customer_id', 'policy_type', 'premium_amount', 'policy_start_date', 'status']
+2026-03-27 18:28:42,917 - INFO - Number of invalid records found: 1001
+2026-03-27 18:28:42,918 - INFO - Number of valid records found: 0
+2026-03-27 18:28:42,923 - INFO - Cleaned policies data stored successfully.
+2026-03-27 18:28:42,929 - INFO - Invalid policies data stored successfully.
+2026-03-27 18:28:42,929 - INFO - Policies data validation completed.
+2026-03-27 18:28:42,929 - INFO - File exists.Start validation
+2026-03-27 18:28:42,935 - INFO - db_claims loaded successfully
+2026-03-27 18:28:42,940 - INFO - db_claims structure :None
+2026-03-27 18:28:42,940 - INFO - db_claims rows:1000
+2026-03-27 18:28:42,940 - INFO - db_claims column:4
+2026-03-27 18:28:42,941 - INFO - db_claims columns:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-27 18:28:42,946 - INFO - Number of invalid rows in db_claims data :0
+2026-03-27 18:28:42,946 - INFO - Number of valid rows in db_claims data :1000
+2026-03-27 18:28:42,948 - INFO - Valid db_claims data stored successfully
+2026-03-27 18:28:42,949 - INFO - Invalid db_claims data stored successfully
+2026-03-27 18:28:42,950 - INFO - Data validation completed.
+2026-03-27 18:28:42,950 - INFO - Starting data transformation...
+2026-03-27 18:28:42,957 - INFO - Policy and claims data loaded successfully
+2026-03-27 18:28:42,992 - INFO - policy count:1001,claims count:10000, merged count:1001
+2026-03-27 18:28:42,992 - INFO - Policy and claims data joined successfully
+2026-03-27 18:28:42,996 - INFO - Merged data saved successfully
+2026-03-27 18:28:42,996 - INFO - Data transformation completed.
+2026-03-27 18:28:42,996 - INFO - Starting data loading to warehouse...
+2026-03-27 18:28:42,996 - INFO - Warehouse CDC upsert process started
+2026-03-27 18:28:43,002 - INFO - Current curated data loaded. Rows: 1001
+2026-03-27 18:28:43,002 - INFO - Previous snapshot loaded. Rows: 1001
+2026-03-27 18:28:43,118 - INFO - CDC detection completed. Changed rows: 2
+2026-03-27 18:28:43,121 - INFO - Warehouse table checked/created successfully
+2026-03-27 18:28:43,144 - INFO - Warehouse upsert completed successfully. Processed rows: 2
+2026-03-27 18:28:43,155 - INFO - Latest curated snapshot saved successfully
+2026-03-27 18:28:43,156 - INFO - Pipeline metadata updated successfully
+2026-03-27 18:28:43,156 - INFO - Data loading to warehouse completed.
+2026-03-27 18:28:43,156 - INFO - Starting warehouse quality checks...
+2026-03-27 18:28:43,162 - INFO - Warehouse row count: 1001
+2026-03-27 18:28:43,162 - INFO - Null counts:
+policy_id              0
+customer_id            0
+policy_type            0
+premium_amount         0
+policy_start_date      0
+status                 0
+total_claims_amount    0
+claim_count            0
+loss_ratio             0
+cdc_flag               0
+load_timestamp         0
+dtype: int64
+2026-03-27 18:28:43,162 - INFO - Duplicate key count: 1
+2026-03-27 18:28:43,162 - WARNING - Duplicate business keys found in warehouse
+2026-03-27 18:28:43,162 - INFO - Warehouse quality checks completed.
+2026-03-27 18:28:43,162 - INFO - Data pipeline execution completed successfully.
+2026-03-27 18:36:06,785 - INFO - Starting data ingestion...
+2026-03-27 18:36:06,854 - INFO - CSV data ingested successfully.
+2026-03-27 18:36:06,860 - INFO - CSV converted to raw JSON successfully.
+2026-03-27 18:36:08,046 - INFO - API data ingested
+2026-03-27 18:36:08,085 - INFO - Data ingested successfully
+2026-03-27 18:36:08,085 - INFO - Data ingestion completed.
+2026-03-27 18:36:08,085 - INFO - Starting data standardization...
+2026-03-27 18:36:08,112 - INFO - policies data loaded successfully
+2026-03-27 18:36:08,264 - INFO - standardized data stored successfully
+2026-03-27 18:36:08,317 - INFO - claims data loaded successfully
+2026-03-27 18:36:08,333 - INFO - standardized data stored successfully
+2026-03-27 18:36:08,343 - INFO - claims data loaded successfully
+2026-03-27 18:36:08,350 - INFO - standardized data stored successfully
+2026-03-27 18:36:08,350 - INFO - Data standardization completed.
+2026-03-27 18:36:08,350 - INFO - Starting data validation...
+2026-03-27 18:36:08,350 - INFO - file exists. Starting validation process.
+2026-03-27 18:36:08,493 - INFO - Claims data loaded successfully
+2026-03-27 18:36:08,540 - INFO - claims data structure: None
+2026-03-27 18:36:08,540 - INFO - Rows:10000
+2026-03-27 18:36:08,540 - INFO - Columns:4
+2026-03-27 18:36:08,540 - INFO - Column names:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-27 18:36:08,568 - INFO - Average claim amount:2563.665322038427
+2026-03-27 18:36:08,572 - INFO - Invalid rows:0
+2026-03-27 18:36:08,572 - INFO - Valid rows :10000
+2026-03-27 18:36:08,572 - INFO - Invalid rows:0
+2026-03-27 18:36:08,599 - INFO - Cleaned claims data stored successfully.
+2026-03-27 18:36:08,607 - INFO - Invalid claims data stored successfully.
+2026-03-27 18:36:08,608 - INFO - Claims data validation completed.
+2026-03-27 18:36:08,608 - INFO - file exists. Starting validation process.
+2026-03-27 18:36:08,615 - INFO - Policies data loaded successfully
+2026-03-27 18:36:08,615 - INFO - Rows:1001
+2026-03-27 18:36:08,615 - INFO - columns:6
+2026-03-27 18:36:08,615 - INFO - Column names:['policy_id', 'customer_id', 'policy_type', 'premium_amount', 'policy_start_date', 'status']
+2026-03-27 18:36:08,615 - INFO - Data types:
+policy_id                     int64
+customer_id                   int64
+policy_type                     str
+premium_amount              float64
+policy_start_date    datetime64[us]
+status                          str
+dtype: object
+2026-03-27 18:36:08,615 - INFO - Unique status values: <ArrowStringArray>
+['expired', 'cancelled', 'active']
+Length: 3, dtype: str
+2026-03-27 18:36:08,649 - INFO - Number of invalid records found: 0
+2026-03-27 18:36:08,650 - INFO - Number of valid records found: 1001
+2026-03-27 18:36:08,659 - INFO - Cleaned policies data stored successfully.
+2026-03-27 18:36:08,662 - INFO - Invalid policies data stored successfully.
+2026-03-27 18:36:08,662 - INFO - Policies data validation completed.
+2026-03-27 18:36:08,662 - INFO - File exists.Start validation
+2026-03-27 18:36:08,662 - INFO - db_claims loaded successfully
+2026-03-27 18:36:08,686 - INFO - db_claims structure :None
+2026-03-27 18:36:08,686 - INFO - db_claims rows:1000
+2026-03-27 18:36:08,686 - INFO - db_claims column:4
+2026-03-27 18:36:08,686 - INFO - db_claims columns:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-27 18:36:08,717 - INFO - Number of invalid rows in db_claims data :0
+2026-03-27 18:36:08,718 - INFO - Number of valid rows in db_claims data :1000
+2026-03-27 18:36:08,723 - INFO - Valid db_claims data stored successfully
+2026-03-27 18:36:08,771 - INFO - Invalid db_claims data stored successfully
+2026-03-27 18:36:08,771 - INFO - Data validation completed.
+2026-03-27 18:36:08,771 - INFO - Starting data transformation...
+2026-03-27 18:36:08,785 - INFO - Policy and claims data loaded successfully
+2026-03-27 18:36:08,896 - INFO - policy count:1001,claims count:10000, merged count:1001
+2026-03-27 18:36:08,897 - INFO - Policy and claims data joined successfully
+2026-03-27 18:36:08,906 - INFO - Merged data saved successfully
+2026-03-27 18:36:08,906 - INFO - Data transformation completed.
+2026-03-27 18:36:08,906 - INFO - Starting data loading to warehouse...
+2026-03-27 18:36:08,906 - INFO - Warehouse CDC upsert process started
+2026-03-27 18:36:08,913 - INFO - Current curated data loaded. Rows: 1001
+2026-03-27 18:36:08,921 - INFO - Previous snapshot loaded. Rows: 1001
+2026-03-27 18:36:09,099 - INFO - CDC detection completed. Changed rows: 2
+2026-03-27 18:36:09,108 - INFO - Warehouse table checked/created successfully
+2026-03-27 18:36:09,127 - INFO - Warehouse upsert completed successfully. Processed rows: 2
+2026-03-27 18:36:09,145 - INFO - Latest curated snapshot saved successfully
+2026-03-27 18:36:09,145 - INFO - Pipeline metadata updated successfully
+2026-03-27 18:36:09,145 - INFO - Data loading to warehouse completed.
+2026-03-27 18:36:09,145 - INFO - Starting warehouse quality checks...
+2026-03-27 18:36:09,161 - INFO - Warehouse row count: 1001
+2026-03-27 18:36:09,162 - INFO - Null counts:
+policy_id              0
+customer_id            0
+policy_type            0
+premium_amount         0
+policy_start_date      0
+status                 0
+total_claims_amount    0
+claim_count            0
+loss_ratio             0
+cdc_flag               0
+load_timestamp         0
+dtype: int64
+2026-03-27 18:36:09,162 - INFO - Duplicate key count: 1
+2026-03-27 18:36:09,162 - WARNING - Duplicate business keys found in warehouse
+2026-03-27 18:36:09,162 - INFO - Warehouse quality checks completed.
+2026-03-27 18:36:09,162 - INFO - Data pipeline execution completed successfully.
+2026-03-27 18:36:57,985 - INFO - Starting data ingestion...
+2026-03-27 18:36:58,046 - INFO - CSV data ingested successfully.
+2026-03-27 18:36:58,052 - INFO - CSV converted to raw JSON successfully.
+2026-03-27 18:36:59,037 - INFO - API data ingested
+2026-03-27 18:36:59,067 - INFO - Data ingested successfully
+2026-03-27 18:36:59,067 - INFO - Data ingestion completed.
+2026-03-27 18:36:59,068 - INFO - Starting data standardization...
+2026-03-27 18:36:59,081 - INFO - policies data loaded successfully
+2026-03-27 18:36:59,247 - INFO - standardized data stored successfully
+2026-03-27 18:36:59,287 - INFO - claims data loaded successfully
+2026-03-27 18:36:59,296 - INFO - standardized data stored successfully
+2026-03-27 18:36:59,296 - INFO - claims data loaded successfully
+2026-03-27 18:36:59,314 - INFO - standardized data stored successfully
+2026-03-27 18:36:59,314 - INFO - Data standardization completed.
+2026-03-27 18:36:59,314 - INFO - Starting data validation...
+2026-03-27 18:36:59,314 - INFO - file exists. Starting validation process.
+2026-03-27 18:36:59,497 - INFO - Claims data loaded successfully
+2026-03-27 18:36:59,530 - INFO - claims data structure: None
+2026-03-27 18:36:59,530 - INFO - Rows:10000
+2026-03-27 18:36:59,530 - INFO - Columns:4
+2026-03-27 18:36:59,530 - INFO - Column names:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-27 18:36:59,565 - INFO - Average claim amount:2563.665322038427
+2026-03-27 18:36:59,568 - INFO - Invalid rows:0
+2026-03-27 18:36:59,570 - INFO - Valid rows :10000
+2026-03-27 18:36:59,570 - INFO - Invalid rows:0
+2026-03-27 18:36:59,582 - INFO - Cleaned claims data stored successfully.
+2026-03-27 18:36:59,582 - INFO - Invalid claims data stored successfully.
+2026-03-27 18:36:59,582 - INFO - Claims data validation completed.
+2026-03-27 18:36:59,582 - INFO - file exists. Starting validation process.
+2026-03-27 18:36:59,582 - INFO - Policies data loaded successfully
+2026-03-27 18:36:59,597 - INFO - Rows:1001
+2026-03-27 18:36:59,598 - INFO - columns:6
+2026-03-27 18:36:59,598 - INFO - Column names:['policy_id', 'customer_id', 'policy_type', 'premium_amount', 'policy_start_date', 'status']
+2026-03-27 18:36:59,598 - INFO - Data types:
+policy_id                     int64
+customer_id                   int64
+policy_type                     str
+premium_amount              float64
+policy_start_date    datetime64[us]
+status                          str
+dtype: object
+2026-03-27 18:36:59,598 - INFO - Unique status values: <ArrowStringArray>
+['expired', 'cancelled', 'active']
+Length: 3, dtype: str
+2026-03-27 18:36:59,618 - INFO - Number of invalid records found: 0
+2026-03-27 18:36:59,618 - INFO - Number of valid records found: 1001
+2026-03-27 18:36:59,618 - INFO - Cleaned policies data stored successfully.
+2026-03-27 18:36:59,630 - INFO - Invalid policies data stored successfully.
+2026-03-27 18:36:59,630 - INFO - Policies data validation completed.
+2026-03-27 18:36:59,630 - INFO - File exists.Start validation
+2026-03-27 18:36:59,630 - INFO - db_claims loaded successfully
+2026-03-27 18:36:59,630 - INFO - db_claims structure :None
+2026-03-27 18:36:59,630 - INFO - db_claims rows:1000
+2026-03-27 18:36:59,630 - INFO - db_claims column:4
+2026-03-27 18:36:59,630 - INFO - db_claims columns:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-27 18:36:59,648 - INFO - Number of invalid rows in db_claims data :0
+2026-03-27 18:36:59,648 - INFO - Number of valid rows in db_claims data :1000
+2026-03-27 18:36:59,657 - INFO - Valid db_claims data stored successfully
+2026-03-27 18:36:59,657 - INFO - Invalid db_claims data stored successfully
+2026-03-27 18:36:59,657 - INFO - Data validation completed.
+2026-03-27 18:36:59,657 - INFO - Starting data transformation...
+2026-03-27 18:36:59,666 - INFO - Policy and claims data loaded successfully
+2026-03-27 18:36:59,730 - INFO - policy count:1001, claims count:10000, merged count:1001
+2026-03-27 18:36:59,730 - INFO - Policy and claims data joined successfully
+2026-03-27 18:36:59,730 - INFO - Merged data saved successfully
+2026-03-27 18:36:59,730 - INFO - Data transformation completed.
+2026-03-27 18:36:59,730 - INFO - Starting data loading to warehouse...
+2026-03-27 18:36:59,730 - INFO - Warehouse CDC upsert process started
+2026-03-27 18:36:59,730 - INFO - Current curated data loaded. Rows: 1001
+2026-03-27 18:36:59,749 - INFO - Previous snapshot loaded. Rows: 1001
+2026-03-27 18:36:59,874 - INFO - CDC detection completed. Changed rows: 2
+2026-03-27 18:36:59,879 - INFO - Warehouse table checked/created successfully
+2026-03-27 18:36:59,901 - INFO - Warehouse upsert completed successfully. Processed rows: 2
+2026-03-27 18:36:59,911 - INFO - Latest curated snapshot saved successfully
+2026-03-27 18:36:59,911 - INFO - Pipeline metadata updated successfully
+2026-03-27 18:36:59,911 - INFO - Data loading to warehouse completed.
+2026-03-27 18:36:59,911 - INFO - Starting warehouse quality checks...
+2026-03-27 18:36:59,911 - INFO - Warehouse row count: 1001
+2026-03-27 18:36:59,911 - INFO - Null counts:
+policy_id              0
+customer_id            0
+policy_type            0
+premium_amount         0
+policy_start_date      0
+status                 0
+total_claims_amount    0
+claim_count            0
+loss_ratio             0
+cdc_flag               0
+load_timestamp         0
+dtype: int64
+2026-03-27 18:36:59,911 - INFO - Duplicate key count: 1
+2026-03-27 18:36:59,911 - WARNING - Duplicate business keys found in warehouse
+2026-03-27 18:36:59,911 - INFO - Warehouse quality checks completed.
+2026-03-27 18:36:59,911 - INFO - Data pipeline execution completed successfully.
+2026-03-27 18:41:30,512 - INFO - Starting data ingestion...
+2026-03-27 18:41:30,562 - INFO - CSV data ingested successfully.
+2026-03-27 18:41:30,579 - INFO - CSV converted to raw JSON successfully.
+2026-03-27 18:41:31,496 - INFO - API data ingested
+2026-03-27 18:41:31,528 - INFO - Data ingested successfully
+2026-03-27 18:41:31,528 - INFO - Data ingestion completed.
+2026-03-27 18:41:31,528 - INFO - Starting data standardization...
+2026-03-27 18:41:31,545 - INFO - policies data loaded successfully
+2026-03-27 18:41:31,728 - INFO - standardized data stored successfully
+2026-03-27 18:41:31,773 - INFO - claims data loaded successfully
+2026-03-27 18:41:31,781 - INFO - standardized data stored successfully
+2026-03-27 18:41:31,781 - INFO - claims data loaded successfully
+2026-03-27 18:41:31,781 - INFO - standardized data stored successfully
+2026-03-27 18:41:31,781 - INFO - Data standardization completed.
+2026-03-27 18:41:31,781 - INFO - Starting data validation...
+2026-03-27 18:41:31,781 - INFO - file exists. Starting validation process.
+2026-03-27 18:41:31,910 - INFO - Claims data loaded successfully
+2026-03-27 18:41:31,947 - INFO - claims data structure: None
+2026-03-27 18:41:31,948 - INFO - Rows:10000
+2026-03-27 18:41:31,948 - INFO - Columns:4
+2026-03-27 18:41:31,948 - INFO - Column names:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-27 18:41:31,970 - INFO - Average claim amount:2563.665322038427
+2026-03-27 18:41:31,973 - INFO - Invalid rows:0
+2026-03-27 18:41:31,974 - INFO - Valid rows :10000
+2026-03-27 18:41:31,974 - INFO - Invalid rows:0
+2026-03-27 18:41:31,982 - INFO - Cleaned claims data stored successfully.
+2026-03-27 18:41:31,982 - INFO - Invalid claims data stored successfully.
+2026-03-27 18:41:31,982 - INFO - Claims data validation completed.
+2026-03-27 18:41:31,982 - INFO - file exists. Starting validation process.
+2026-03-27 18:41:31,982 - INFO - Policies data loaded successfully
+2026-03-27 18:41:31,994 - INFO - Rows:1001
+2026-03-27 18:41:31,994 - INFO - columns:6
+2026-03-27 18:41:31,995 - INFO - Column names:['policy_id', 'customer_id', 'policy_type', 'premium_amount', 'policy_start_date', 'status']
+2026-03-27 18:41:31,997 - INFO - Data types:
+policy_id                     int64
+customer_id                   int64
+policy_type                     str
+premium_amount              float64
+policy_start_date    datetime64[us]
+status                          str
+dtype: object
+2026-03-27 18:41:31,997 - INFO - Unique status values: <ArrowStringArray>
+['expired', 'cancelled', 'active']
+Length: 3, dtype: str
+2026-03-27 18:41:32,012 - INFO - Number of invalid records found: 0
+2026-03-27 18:41:32,012 - INFO - Number of valid records found: 1001
+2026-03-27 18:41:32,012 - INFO - Cleaned policies data stored successfully.
+2026-03-27 18:41:32,032 - INFO - Invalid policies data stored successfully.
+2026-03-27 18:41:32,032 - INFO - Policies data validation completed.
+2026-03-27 18:41:32,032 - INFO - File exists.Start validation
+2026-03-27 18:41:32,032 - INFO - db_claims loaded successfully
+2026-03-27 18:41:32,046 - INFO - db_claims structure :None
+2026-03-27 18:41:32,046 - INFO - db_claims rows:1000
+2026-03-27 18:41:32,046 - INFO - db_claims column:4
+2026-03-27 18:41:32,046 - INFO - db_claims columns:['policy_id', 'customer_id', 'claim_amount', 'status']
+2026-03-27 18:41:32,046 - INFO - Number of invalid rows in db_claims data :0
+2026-03-27 18:41:32,046 - INFO - Number of valid rows in db_claims data :1000
+2026-03-27 18:41:32,046 - INFO - Valid db_claims data stored successfully
+2026-03-27 18:41:32,061 - INFO - Invalid db_claims data stored successfully
+2026-03-27 18:41:32,062 - INFO - Data validation completed.
+2026-03-27 18:41:32,063 - INFO - Starting data transformation...
+2026-03-27 18:41:32,071 - INFO - Policy and claims data loaded successfully
+2026-03-27 18:41:32,135 - INFO - policy count:1001, claims count:10000, merged count:1001
+2026-03-27 18:41:32,135 - INFO - Policy and claims data joined successfully
+2026-03-27 18:41:32,152 - INFO - Merged data saved successfully
+2026-03-27 18:41:32,153 - INFO - Data transformation completed.
+2026-03-27 18:41:32,153 - INFO - Starting data loading to warehouse...
+2026-03-27 18:41:32,153 - INFO - Warehouse CDC upsert process started
+2026-03-27 18:41:32,159 - INFO - Current curated data loaded. Rows: 1000
+2026-03-27 18:41:32,162 - INFO - Previous snapshot loaded. Rows: 1001
+2026-03-27 18:41:32,396 - INFO - CDC detection completed. Changed rows: 1
+2026-03-27 18:41:32,412 - INFO - Warehouse table checked/created successfully
+2026-03-27 18:41:32,445 - INFO - Warehouse upsert completed successfully. Processed rows: 1
+2026-03-27 18:41:32,463 - INFO - Latest curated snapshot saved successfully
+2026-03-27 18:41:32,463 - INFO - Pipeline metadata updated successfully
+2026-03-27 18:41:32,463 - INFO - Data loading to warehouse completed.
+2026-03-27 18:41:32,463 - INFO - Starting warehouse quality checks...
+2026-03-27 18:41:32,478 - INFO - Warehouse row count: 1000
+2026-03-27 18:41:32,478 - INFO - Null counts:
+policy_id              0
+customer_id            0
+policy_type            0
+premium_amount         0
+policy_start_date      0
+status                 0
+total_claims_amount    0
+claim_count            0
+loss_ratio             0
+cdc_flag               0
+load_timestamp         0
+dtype: int64
+2026-03-27 18:41:32,482 - INFO - Duplicate key count: 0
+2026-03-27 18:41:32,482 - INFO - No duplicate business keys found
+2026-03-27 18:41:32,482 - INFO - Warehouse quality checks completed.
+2026-03-27 18:41:32,482 - INFO - Data pipeline execution completed successfully.
